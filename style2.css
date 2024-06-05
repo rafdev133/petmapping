@@ -1,0 +1,20 @@
+
+.sidebar a.active {
+    background-color: #000000;
+    color: white;
+   }
+
+/* CSS for the label and dropdown alignment */
+.phase-label {
+    text-align: right;
+    display: block;
+    margin-right: 20px;
+    font-weight: bold; /* Optional: Make the label bold */
+}
+
+.phase-dropdown {
+    display: block;
+    width: 100%;
+}
+
+
